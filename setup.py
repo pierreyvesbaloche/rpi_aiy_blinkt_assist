@@ -15,7 +15,7 @@ setup(
     long_description=readme,
     author='Pierre-yves Baloche',
     author_email='funkypiwy@gmail.com',
-    url='https://github.com/pierreyvesbaloche/rpi-aiy-blinkt-assist',
+    url='https://github.com/pierreyvesbaloche/rpi_aiy_blinkt_assist',
     license=license,
     setup_requires=['pytest-runner'],
     tests_require=['pytest'],
