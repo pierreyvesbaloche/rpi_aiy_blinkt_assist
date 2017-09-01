@@ -1,4 +1,4 @@
-# rpi-aiy-blinkt-assist
+# rpi_aiy_blinkt_assist
 Raspberry Project for Pimoroni's Blinkt LED with Google AIY Color effects.
 
 [![Build Status](https://travis-ci.org/pierreyvesbaloche/rpi_aiy_blinkt_assist.svg?branch=master)](https://travis-ci.org/pierreyvesbaloche/rpi_aiy_blinkt_assist)
